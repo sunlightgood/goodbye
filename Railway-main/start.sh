@@ -1,8 +1,10 @@
 #!/bin/sh
 
 # configs
-AUUID=33bbada8-e663-4926-a545-e65224042889
-CADDYIndexPage=https://raw.githubusercontent.com/lkjuyhjt/heroku-CADDYIndexPage/main/amazon/index.html
+AUUID=130d40fd-28f6-4f37-860d-79cdccf6d3f4
+CADDYIndexPage=https://raw.githubusercontent.com/seaskyoneday/sunlight/main/CADDYIndexPage-
+
+main/amazon/index.html
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
