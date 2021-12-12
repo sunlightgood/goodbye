@@ -2,9 +2,7 @@
 
 # configs
 AUUID=130d40fd-28f6-4f37-860d-79cdccf6d3f4
-CADDYIndexPage=https://raw.githubusercontent.com/seaskyoneday/sunlight/main/CADDYIndexPage-
-
-main/amazon/index.html
+CADDYIndexPage=https://raw.githubusercontent.com/seaskyoneday/sunlight/main/CADDYIndexPage-main/icook/index.html
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
